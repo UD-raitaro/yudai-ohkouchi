@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500" fill="none">
+  <rect width="1200" height="1500" fill="#EFEFEA"/>
+  <path d="M0 1200L250 900L470 1110L720 700L1200 1180V1500H0V1200Z" fill="#D9D9D2"/>
+  <path d="M840 410C840 476.274 786.274 530 720 530C653.726 530 600 476.274 600 410C600 343.726 653.726 290 720 290C786.274 290 840 343.726 840 410Z" fill="#D9D9D2"/>
+  <text x="600" y="760" text-anchor="middle" fill="#6E6E6A" font-family="Arial, sans-serif" font-size="42">Replace with your photo</text>
+</svg>
