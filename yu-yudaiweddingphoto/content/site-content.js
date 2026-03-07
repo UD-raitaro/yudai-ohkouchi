@@ -1,6 +1,6 @@
 window.siteContent = {
-  siteTitle: "Your Name",
-  siteSubtitle: "portfolio",
+  siteTitle: "Yu Yudai",
+  siteSubtitle: "Welcome to Our Wedding",
   heroLinks: [
     { label: "Schedule", href: "#schedule" },
     { label: "小雪", href: "#smallsnow" },
