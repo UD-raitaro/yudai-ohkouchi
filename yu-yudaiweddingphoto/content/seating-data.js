@@ -10,8 +10,8 @@ window.seatingConfig = {
     { name: "HAYACHINE", image: "assets/images/seating/table-06.svg", alt: "6卓の席表" },
     { name: "Mt'HAKU", image: "assets/images/seating/table-07.svg", alt: "7卓の席表" },
     { name: "BO-NOMINE", image: "assets/images/seating/table-08.svg", alt: "8卓の席表" },
-    { name: "GOZAISHO", image: "assets/images/seating/table-09.svg", alt: "9卓の席表" }
-    { name: "Hachimantai", image: "assets/images/seating/table-09.svg", alt: "10卓の席表" }
+    { name: "GOZAISHO", image: "assets/images/seating/table-09.svg", alt: "9卓の席表" },
+    { name: "Hachimantai", image: "assets/images/seating/table-09.svg", alt: "10卓の席表" },
     { name: "11卓", image: "assets/images/seating/table-11.jpg", alt: "11卓の席表" }
   ]
 };
