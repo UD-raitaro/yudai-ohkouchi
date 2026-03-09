@@ -1,0 +1,139 @@
+/* additive seating patch */
+.ws-seating {
+  padding: 3.5rem 1.25rem 1rem;
+}
+
+.ws-seating__inner {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.ws-seating__header {
+  margin-bottom: 1.25rem;
+}
+
+.ws-seating__title {
+  margin: 0 0 0.5rem;
+  font-size: 1rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+}
+
+.ws-seating__intro {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.8;
+  opacity: 0.8;
+}
+
+.ws-seating__grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.ws-seating__button {
+  appearance: none;
+  border: 0.75px solid currentColor;
+  background: transparent;
+  color: inherit;
+  padding: 0.95rem 0.75rem;
+  font: inherit;
+  letter-spacing: 0.06em;
+  cursor: pointer;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.ws-seating__button:hover {
+  opacity: 0.7;
+}
+
+.ws-seating__button:active {
+  transform: translateY(1px);
+}
+
+.ws-modal-open {
+  overflow: hidden;
+}
+
+.ws-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background: rgba(255, 255, 255, 0.92);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.ws-modal[hidden] {
+  display: none;
+}
+
+.ws-modal__dialog {
+  width: min(100%, 860px);
+  max-height: 92vh;
+  overflow: auto;
+  background: #fff;
+  border: 0.75px solid rgba(0, 0, 0, 0.18);
+}
+
+.ws-modal__top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.85rem 1rem;
+  border-bottom: 0.75px solid rgba(0, 0, 0, 0.12);
+}
+
+.ws-modal__title {
+  margin: 0;
+  font-size: 0.95rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+}
+
+.ws-modal__close {
+  appearance: none;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font-size: 1.5rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0.15rem 0.25rem;
+}
+
+.ws-modal__body {
+  padding: 1rem;
+}
+
+.ws-modal__image {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 0.75px solid rgba(0, 0, 0, 0.08);
+}
+
+@media (max-width: 720px) {
+  .ws-seating {
+    padding: 3rem 1rem 0.75rem;
+  }
+
+  .ws-seating__grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.65rem;
+  }
+
+  .ws-seating__button {
+    padding: 0.9rem 0.6rem;
+    font-size: 0.92rem;
+  }
+
+  .ws-modal__body {
+    padding: 0.75rem;
+  }
+}
