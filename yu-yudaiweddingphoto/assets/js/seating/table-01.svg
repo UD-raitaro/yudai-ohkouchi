@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="white"/>
+  <rect x="70" y="70" width="1060" height="660" fill="none" stroke="black" stroke-width="1"/>
+  <text x="600" y="180" font-family="Arial, 'Hiragino Sans', sans-serif" font-size="42" text-anchor="middle" fill="black">Table 01</text>
+  <circle cx="600" cy="430" r="150" fill="none" stroke="black" stroke-width="1.2"/>
+  <text x="600" y="438" font-family="Arial, 'Hiragino Sans', sans-serif" font-size="28" text-anchor="middle" fill="black">席表画像の差し替え用サンプル</text>
+</svg>
