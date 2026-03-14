@@ -9,12 +9,12 @@ window.siteContent = {
   ],
   profileLinks: {
     smallsnow: [
-      { label: "Web", href: "#", kind: "web" },
-      { label: "Instagram", href: "#", kind: "instagram" }
+      { label: "Web", href: "https://www.smallsnow.ooo/", kind: "web" },
+      { label: "Instagram", href: "https://www.instagram.com/_smallsnow/?hl=ja", kind: "instagram" }
     ],
     takayanagi: [
-      { label: "Web", href: "#", kind: "web" },
-      { label: "Instagram", href: "#", kind: "instagram" }
+      { label: "Web", href: "https://sugurutakayanagi.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnkd7kWK9ZIae1o6NQ0DZ8HG7Kk2cuNTCgbfk5_x6-m0VmRM0ZCvNJSLr9M_Y_aem_Sj1kiHF5HYIXfm-NJWY51A", kind: "web" },
+      { label: "Instagram", href: "https://www.instagram.com/suguru_takayanagi/?hl=ja", kind: "instagram" }
     ]
   },
   contactLinks: {
