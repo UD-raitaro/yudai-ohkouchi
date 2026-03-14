@@ -471,3 +471,6 @@ img { display: block; max-width: 100%; }
     font-size: clamp(1.2rem, 6vw, 2rem);
   }
 }
+#hero-links[hidden] {
+  display: none !important;
+}
