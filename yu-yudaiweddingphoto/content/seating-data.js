@@ -4,7 +4,7 @@ window.seatingConfig = {
   tables: [
     { name: "HINATAYAMA", image: "assets/images/seating/table-01.jpg", alt: "1卓の席表" },
     { name: "AKADAKE", image: "assets/images/seating/table-02.jpg", alt: "2卓の席表" },
-    { name: "NISHIHODAKADAKE", image: "assets/images/seating/table-03.jpg", alt: "3卓の席表" },
+    { name: "NISHIHODAKA", image: "assets/images/seating/table-03.jpg", alt: "3卓の席表" },
     { name: "HO-KENDAKE", image: "assets/images/seating/table-04.jpg", alt: "4卓の席表" },
     { name: "NISHITANZAWA", image: "assets/images/seating/table-05.jpg", alt: "5卓の席表" },
     { name: "HAYACHINE", image: "assets/images/seating/table-06.jpg", alt: "6卓の席表" },
