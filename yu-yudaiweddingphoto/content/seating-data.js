@@ -11,7 +11,7 @@ window.seatingConfig = {
     { name: "HAKUSAN", image: "assets/images/seating/table-07.jpg", alt: "7卓の席表" },
     { name: "BO-NOMINE", image: "assets/images/seating/table-08.jpg", alt: "8卓の席表" },
     { name: "GOZAISHO", image: "assets/images/seating/table-09.jpg", alt: "9卓の席表" },
-    { name: "JANDARUM", image: "assets/images/seating/table-09.jpg", alt: "10卓の席表" },
+    { name: "JANDARUM", image: "assets/images/seating/table-10.jpg", alt: "10卓の席表" },
     { name: "NIKKO=SHIRANE", image: "assets/images/seating/table-11.jpg", alt: "11卓の席表" }
   ]
 };
