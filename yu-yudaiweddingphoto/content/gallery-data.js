@@ -29,6 +29,8 @@ window.galleryItems = [
   { title: "高柳傑 13", category: "takayanagi", file: "assets/images/takayanagi/takayanagi-13.jpg", alt: "高柳傑 13", year: "2026" },
   { title: "高柳傑 14", category: "takayanagi", file: "assets/images/takayanagi/takayanagi-14.jpg", alt: "高柳傑 14", year: "2026" },
   { title: "高柳傑 15", category: "takayanagi", file: "assets/images/takayanagi/takayanagi-15.jpg", alt: "高柳傑 15", year: "2026" },
+  { title: "高柳傑 16", category: "takayanagi", file: "assets/images/takayanagi/takayanagi-16.jpg", alt: "高柳傑 16", year: "2026" },
+  { title: "高柳傑 17", category: "takayanagi", file: "assets/images/takayanagi/takayanagi-17.jpg", alt: "高柳傑 17", year: "2026" },
   { title: "Other 01", category: "other", file: "assets/images/other/other-01.jpg", alt: "Other 01", year: "2026" },
   { title: "Other 02", category: "other", file: "assets/images/other/other-02.jpg", alt: "Other 02", year: "2026" },
   { title: "Other 03", category: "other", file: "assets/images/other/other-03.jpg", alt: "Other 03", year: "2026" },
